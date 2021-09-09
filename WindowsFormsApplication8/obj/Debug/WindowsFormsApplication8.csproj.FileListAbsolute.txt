@@ -1,0 +1,13 @@
+c:\users\italo.silva\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+c:\users\italo.silva\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\italo.silva\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\italo.silva\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+c:\users\italo.silva\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\italo.silva\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\italo.silva\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\italo.silva\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\italo.silva\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\italo.silva\Desktop\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\italo.silva\Desktop\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\italo.silva\Desktop\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\italo.silva\Desktop\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
